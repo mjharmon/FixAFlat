@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Fix A Flat</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="prestaText">Does the place where you put air in the tire look like this?</string>
+    <string name="schraderText">Does the place where you put air in the tire look more like where you inflate a car\'s tire?</string>
+    <string name="prestaButtonText">It looks like this.</string>
+    <string name="schraderButtonText">It looks like a car\'s.</string>
+    <string name="notThisValveButtonText">It doesn\'t look like this.</string>
+    <string name="notices">
+        This app assumes that you\'ve successfully removed your wheel and know how to replace it.
+    </string>
+    <string name="schraderTireRemoveStart">
+        Deflate the tire completely: remove any cap on the small tube sticking out of the rim
+        (where you put air into the tire, this is known as the stem) then push on the small pin
+        in the center of the stem. If there is any air in the tire, you will hear it whoosing out
+        of the tire.\n\n
+    </string>
+    <string name="prestaTireRemoveStart">
+        Deflate the tire completely: remove any cap on the small tube sticking out of the rim
+        (where you put air into the tire, this is known as the stem) then unscrew the thumb bolt
+        in the center of the stem completely. Now, push down on the pin in the center of the stem.
+        If there is any air in the tire, you will hear it whoosing out of the tire.\n\n
+    </string>
+    <string name="tireRemoveStart">
+        Remove one side of the tire: Hook the rounded end of one tire lever under the bead
+        (the outer edge) of the tire to unseat it. Hook the other end onto a spoke to hold the
+        lever in place and to keep the unseated tire from popping back into the rim. Hook the
+        rounded end of the second lever under the bead next to the first and walk it around the
+        tire/rim clockwise until one side of the tire is off the rim.
+    </string>
+    <string name="prestaTubeRemove">
+        To remove the tube, unscrew the ring nut at the bottom of the stem completely and set it
+        aside. Then, push the stem through the hold in the rim and then carefully pull the tube
+        out of the tire.
+    </string>
+    <string name="schraderTubeRemove">
+        To remove the tube, push the stem through the hole in the rim and then carefully pull the
+        tube out of the tire.
+    </string>
+
+    <string name="tireRemoveFinish">
+        Remove the tire completely: Push the bead of other side of the tire completely off the
+        rim.\n
+        Inspect the tire to locate what caused the puncture in the first place.\n
+        When you locate what caused the puncture, remove it from the tire or it will puncture the
+        new tube when you inflate it.\n
+        Once you\'ve located and removed the cause of the puncture, partially replace the tire on the rim by
+        pushing one bead back on to the rim.\n
+    </string>
+
+    <string name="prestaTubeReplace">
+        To replace the tube, partially inflate the tube. Push the stem through the hole in the rim,
+        then screw the retenition ring nut back onto the stem so that it secures the stem to the rim.\n
+        Gently push the tube into the tire.\n
+    </string>
+
+    <string name="schraderTubeReplace">
+        To replace the tube, partially inflate the tube. Push the stem through the hole in the rim
+        and gently push the tube into the tire.\n
+    </string>
+
+    <string name="finishTubeTireReplace">
+        Once the tube is in place, install the second side of the tire:\n\n
+
+        Starting at the valve on either side, push the second bead into the rim. This will become
+        progressively harder as you push more and more of the bead into the rim.
+
+        For the last few inches of tire bead, some considerable force may be needed to pop it over
+        the edge of the rim. (Some rim/tire combinations are easier than others.) If it is giving
+        you difficulty, resist the urge to press the middle part over. Instead, work alternately
+        from each end of the section you\'re trying to lift over. Going back and forth from side
+        to side will usually get it.
+    </string>
+
+    <string name="prestaInflateTire">
+        Unscrew the pin at the center of the stem. Connect the pump to the stem and begin pumping.
+        Once the tire is fully inflated, screw the pin at the center of stem closed.
+    </string>
+
+    <string name="schraderInflateTire">
+        Connect the pump to the stem and begin pumping.
+    </string>
+</resources>
